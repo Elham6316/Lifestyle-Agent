@@ -69,14 +69,6 @@ Lifestyle Agent is designed to feel like a real friend, not a tool:
 
 ---
 
-## 📸 Screenshots
-
-| Project Overview | Project Instructions | Sample Output |
-|---|---|---|
-| *(add screenshot)* | *(add screenshot)* | *(add screenshot)* |
-
----
-
 ## 🚀 Future Improvements
 
 - 🎵 Spotify integration for mood-based playlists
