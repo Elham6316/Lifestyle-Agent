@@ -79,4 +79,4 @@ Sample Output
 
 ## Preview
 
-![Lifestyle Agent](screenshots/sample-output.png)
+![Lifestyle Agent](screenshots/demo.gif)
